@@ -1,0 +1,9 @@
+{
+    "name": "My Blog PWA",
+    "short_name": "Blog PWA",
+    "description": "A Progressive Web App that displays blog posts",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2196f3"
+}
